@@ -1,3 +1,4 @@
+<script>
 
 var valorRealtxt = prompt("Deixe de ser um trouxa, invista conosco e se torne um bruxo trouxa. Agora nos diga, quanto você possui para investir?")
 
@@ -22,3 +23,5 @@ alert("e " + Nuque + " Nuques")
 alert("Um Galeao vale R$ 125,00")
 alert("Um Sicle equivale a R$ 7,50")
 alert("Cada Nuque vale R$ 0,25")
+
+</script>
